@@ -1,0 +1,18 @@
+# Python Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# VS Code specific files
+.vscode/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+/Scripts/
+
+/Lib
+/pyvenv
+/pyvenv.cfg
